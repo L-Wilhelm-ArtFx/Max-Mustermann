@@ -4,6 +4,8 @@
 - Compile using cmake / use the vscode cmake plugin
 Alternatively a build can be found in the build.zip archive.
 
+Program expects the existence of a ./levels folder inside the working directory.
+
 ## Controls
 Arrow keys - Move Camera (or cursor when mouse cursor off)
 Left click / Space - Place tile
