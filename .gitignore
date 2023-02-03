@@ -1,1 +1,6 @@
 build/
+levels/*
+!levels/.gitkeep
+!levels/pain_axelotl.yaml
+!levels/hello_world.yaml
+imgui.ini
